@@ -1,0 +1,14 @@
+.1CV8/
+1Cv8.1CD
+1Cv8.lgd
+1Cv8tmp.*
+*.pfl
+*.tmp
+*.bak
+*.log
+/Temp/
+/Cache/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
