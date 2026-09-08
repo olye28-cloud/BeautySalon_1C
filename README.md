@@ -214,9 +214,13 @@ Salon/
 ├── Catalogs/                ← объекты основной конфигурации
 ├── Documents/
 ├── Forms/
+├── ....
 ├── Mobile/                  ← мобильная конфигурация (для отдельной базы)
 │   ├── Catalogs/
 │   ├── Documents/
 │   └── ...
+├── assets/                  ← папка с артефактами
+│   ├── excel_templates/
+│   ├── print_forms/
 ├── .gitignore               ← настроен под 1С (исключает 1Cv8.1CD, кэш, логи)
 └── README.md 
