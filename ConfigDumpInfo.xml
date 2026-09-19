@@ -1565,7 +1565,7 @@
 		<Metadata name="DefinedType.Пользователь" id="a72517c3-8c91-4e40-81ac-83c762789e87" configVersion="b264fdf4b27d28439ffa37f58495c6d000000000"/>
 		<Metadata name="DefinedType.ФизическоеЛицо" id="46b0a5b3-1fa7-44ff-a941-c6de47d36e77" configVersion="ba520b941bd7f3479b6915d2c6beb22c00000000"/>
 		<Metadata name="DefinedType.ФинансовыеДанные" id="254d7f1a-2f80-48c3-8c7b-e8e5064e7f03" configVersion="858d28ae05d6bb42a5b077a5131600d700000000"/>
-		<Metadata name="Document.ПоступлениеТоваровИУслуг" id="2ffe2f25-f52f-46cd-99b7-16c2f4f4ce72" configVersion="6466102cad29c146aac8eb08bc60429d00000000">
+		<Metadata name="Document.ПоступлениеТоваровИУслуг" id="2ffe2f25-f52f-46cd-99b7-16c2f4f4ce72" configVersion="4771e62253ee3f4e91ec90e833a4377400000000">
 			<Metadata name="Document.ПоступлениеТоваровИУслуг.Attribute.Договор" id="0f19f31a-cf24-49ee-b3b1-2af34d9d5cd1"/>
 			<Metadata name="Document.ПоступлениеТоваровИУслуг.TabularSection.Услуги" id="1313353c-262c-4578-a1f5-02b8dc7ff8d7"/>
 			<Metadata name="Document.ПоступлениеТоваровИУслуг.TabularSection.Товары.Attribute.Номенклатура" id="2002f887-f607-429d-a33f-610141505791"/>
@@ -1591,7 +1591,7 @@
 		<Metadata name="Document.ПоступлениеТоваровИУслуг.Form.ФормаДокумента.Form" id="5d9a4bed-ff12-42bc-9f1d-7dbe8413cb90.0" configVersion="6c26e41afa506441971487e286de781300000000"/>
 		<Metadata name="Document.ПоступлениеТоваровИУслуг.Form.ФормаСписка" id="3ac19075-5664-4b2b-925c-59c5ab3e0ff1" configVersion="0d97ad418f5ee544a7586d50f38cb2b500000000"/>
 		<Metadata name="Document.ПоступлениеТоваровИУслуг.Form.ФормаСписка.Form" id="3ac19075-5664-4b2b-925c-59c5ab3e0ff1.0" configVersion="1f73925646758848a187aa024d952aff00000000"/>
-		<Metadata name="Document.ПоступлениеТоваровИУслуг.ObjectModule" id="2ffe2f25-f52f-46cd-99b7-16c2f4f4ce72.0" configVersion="8cd3c2ef7095f74ea0cc5db914863cf200000000"/>
+		<Metadata name="Document.ПоступлениеТоваровИУслуг.ObjectModule" id="2ffe2f25-f52f-46cd-99b7-16c2f4f4ce72.0" configVersion="483d6766c984404084dd38d3e59a731d00000000"/>
 		<Metadata name="Document.ПредварительнаяЗапись" id="bfd5f851-09fc-4c63-95ee-7ca9c9f522f7" configVersion="4eca043c3c655a48b2a2998f47c0452e00000000">
 			<Metadata name="Document.ПредварительнаяЗапись.Attribute.Клиент" id="031168aa-2ab2-4a32-ad72-613c0b2f476e"/>
 			<Metadata name="Document.ПредварительнаяЗапись.TabularSection.Услуги.Attribute.Цена" id="0fb9720e-f47f-420b-98f0-630d36333489"/>
